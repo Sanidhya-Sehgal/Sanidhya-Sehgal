@@ -119,21 +119,42 @@ me = Sanidhya()
 
 <div align="center">
 
-[![Hospital Management System]](https://github.com/Sanidhya-Sehgal/hospital-manager)
+### 🏥 Hospital Management System
+**📅 Aug 2024 – Oct 2024**
 
-[![Inventory Management]](https://github.com/Sanidhya-Sehgal/Store_Management)
+[![Repository](https://img.shields.io/badge/Repository-View%20Code-blue?style=for-the-badge&logo=github)](https://github.com/Sanidhya-Sehgal/hospital-manager)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Key Features:**
+- 🏥 Patient registration and management system
+- 📅 Appointment scheduling with doctor approval
+- 💊 Prescription management module
+- 💰 Integrated billing workflows
+- 📊 Admin dashboard with data export functionality
+
+**Impact:** Streamlined hospital operations by reducing paperwork and improving coordination between patients, doctors, and administrators.
+
+---
+
+### 📦 Storage & Inventory Management System
+**📅 June 2024 – July 2024**
+
+[![Repository](https://img.shields.io/badge/Repository-View%20Code-blue?style=for-the-badge&logo=github)](https://github.com/Sanidhya-Sehgal/Store_Management)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Database](https://img.shields.io/badge/Database-Design-green?style=for-the-badge&logo=database&logoColor=white)
+
+**Key Features:**
+- 🔍 Advanced SQL queries for stock optimization
+- ⚠️ Automated reorder detection system  
+- 📈 Demand forecasting algorithms
+- 📊 Supplier performance analytics
+- 🗂️ Normalized database with optimized indexing
+
+**Impact:** Enhanced sustainable retail practices by optimizing stock levels, reducing waste from overstocking, and ensuring product availability.
 
 </div>
-
-### 🏥 Hospital Management System
-- **Tech Stack:** PHP, MySQL, HTML, CSS, JavaScript, Bootstrap
-- **Features:** Patient registration, appointment scheduling, billing workflows, doctor approvals
-- **Impact:** Streamlined hospital operations, reduced paperwork, minimized appointment delays
-
-### 📦 Storage & Inventory Management  
-- **Tech Stack:** SQL, Advanced Database Design
-- **Features:** Stock optimization, reorder detection, demand forecasting, supplier analytics
-- **Impact:** Optimized stock levels, reduced waste, improved supply chain efficiency
 
 ---
 
