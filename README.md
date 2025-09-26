@@ -119,7 +119,7 @@ me = Sanidhya()
 
 <div align="center">
 
-[![Hospital Management System](https://github-readme-stats.vercel.app/api/pin/?username=Sanidhya-Sehgal&repo=hospital-management-system&theme=radical&hide_border=true)](https://github.com/Sanidhya-Sehgal/hospital-management-system)
+[![Hospital Management System](https://github-readme-stats.vercel.app/api/pin/?username=Sanidhya-Sehgal&repo=hospital-management-system&theme=radical&hide_border=true)]([https://github.com/Sanidhya-Sehgal/hospital-management-system](https://github.com/Sanidhya-Sehgal/hospital-manager))
 
 [![Inventory Management](https://github-readme-stats.vercel.app/api/pin/?username=Sanidhya-Sehgal&repo=inventory-management&theme=radical&hide_border=true)](https://github.com/Sanidhya-Sehgal/inventory-management)
 
