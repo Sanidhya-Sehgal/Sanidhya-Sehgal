@@ -168,7 +168,6 @@ me = Sanidhya()
   [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sanidhya-Sehgal)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanidhya.yes@email.com)
   
-  **📱 Phone:** +91-8708252661
   
 </div>
 
